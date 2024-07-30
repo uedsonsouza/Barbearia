@@ -24,4 +24,4 @@ Esse repositório se refere a uma aplicação simples com versão web, mobile e 
 * Postgres
 
 ## Importante
-Essa aplicação não foi realizada por mim do zero, ela foi criada durante um curso da **Cod3r**. Existem vários pontos de melhoria nesse projeto. Caso queira contribuir, fique à vontade para clonar e trabalhar no mesmo.
+Essa aplicacao foi criada durante um curso da **Cod3r**. Existem vários pontos de melhoria nesse projeto. Caso queira contribuir, fique à vontade para clonar e trabalhar no mesmo.
